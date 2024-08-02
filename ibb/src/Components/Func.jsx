@@ -95,7 +95,7 @@ export default function Func() {
                   <FaHeart className="icon" />
                 </button>
                 <WhatsappShareButton
-                  url={`https://www.themealdb.com/meals/${recipe.idMeal}`}
+                  url={`https://recipestalk.vercel.app/`}
                   title={recipe.strMeal}>
                 <button className="icon-button">
                   <FaShareAlt className="icon" />
